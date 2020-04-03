@@ -4,7 +4,7 @@ const useFetchAddress = (zipCode) => {
     const [address, setAddress] = useState({});
     
     useEffect(() => {
-        const urlAPI = `http://viacep.com.br/ws/${zipCode}/json/`;
+        const urlAPI = `https://viacep.com.br/ws/${zipCode}/json/`;
 
         async function fetchData() {
             if(zipCode.length === 8) {
