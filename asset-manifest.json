@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tarefa-bootcampo-formulario-cep/static/css/main.8e7da793.chunk.css",
-    "main.js": "/tarefa-bootcampo-formulario-cep/static/js/main.19534cf5.chunk.js",
-    "main.js.map": "/tarefa-bootcampo-formulario-cep/static/js/main.19534cf5.chunk.js.map",
+    "main.css": "/tarefa-bootcampo-formulario-cep/static/css/main.7e0d5062.chunk.css",
+    "main.js": "/tarefa-bootcampo-formulario-cep/static/js/main.2408f285.chunk.js",
+    "main.js.map": "/tarefa-bootcampo-formulario-cep/static/js/main.2408f285.chunk.js.map",
     "runtime-main.js": "/tarefa-bootcampo-formulario-cep/static/js/runtime-main.35196061.js",
     "runtime-main.js.map": "/tarefa-bootcampo-formulario-cep/static/js/runtime-main.35196061.js.map",
     "static/js/2.52f097a9.chunk.js": "/tarefa-bootcampo-formulario-cep/static/js/2.52f097a9.chunk.js",
     "static/js/2.52f097a9.chunk.js.map": "/tarefa-bootcampo-formulario-cep/static/js/2.52f097a9.chunk.js.map",
     "index.html": "/tarefa-bootcampo-formulario-cep/index.html",
-    "precache-manifest.c2f478d8f6bb5b17447fc1f16de1ec13.js": "/tarefa-bootcampo-formulario-cep/precache-manifest.c2f478d8f6bb5b17447fc1f16de1ec13.js",
+    "precache-manifest.29aa94a1885d8771c773ff15a6235645.js": "/tarefa-bootcampo-formulario-cep/precache-manifest.29aa94a1885d8771c773ff15a6235645.js",
     "service-worker.js": "/tarefa-bootcampo-formulario-cep/service-worker.js",
-    "static/css/main.8e7da793.chunk.css.map": "/tarefa-bootcampo-formulario-cep/static/css/main.8e7da793.chunk.css.map",
+    "static/css/main.7e0d5062.chunk.css.map": "/tarefa-bootcampo-formulario-cep/static/css/main.7e0d5062.chunk.css.map",
     "static/js/2.52f097a9.chunk.js.LICENSE.txt": "/tarefa-bootcampo-formulario-cep/static/js/2.52f097a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.35196061.js",
     "static/js/2.52f097a9.chunk.js",
-    "static/css/main.8e7da793.chunk.css",
-    "static/js/main.19534cf5.chunk.js"
+    "static/css/main.7e0d5062.chunk.css",
+    "static/js/main.2408f285.chunk.js"
   ]
 }

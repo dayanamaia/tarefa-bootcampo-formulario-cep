@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tarefa-bootcampo-formulario-cep/precache-manifest.c2f478d8f6bb5b17447fc1f16de1ec13.js"
+  "/tarefa-bootcampo-formulario-cep/precache-manifest.29aa94a1885d8771c773ff15a6235645.js"
 );
 
 self.addEventListener('message', (event) => {
